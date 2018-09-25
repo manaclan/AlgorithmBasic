@@ -1,0 +1,6 @@
+/home/vinh/Vinh/AlgorithmBasic-master/build/CMakeFiles/rebuild_cache.dir
+/home/vinh/Vinh/AlgorithmBasic-master/build/CMakeFiles/AlgoBasic.dir
+/home/vinh/Vinh/AlgorithmBasic-master/build/CMakeFiles/edit_cache.dir
+/home/vinh/Vinh/AlgorithmBasic-master/build/SelectionSort/CMakeFiles/rebuild_cache.dir
+/home/vinh/Vinh/AlgorithmBasic-master/build/SelectionSort/CMakeFiles/SelectionSort.dir
+/home/vinh/Vinh/AlgorithmBasic-master/build/SelectionSort/CMakeFiles/edit_cache.dir
