@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././Include/Include.h
+math.h
+-
+iostream
+-
+string
+-
+vector
+-
+
+/home/vinh/Vinh/AlgorithmBasic-master/main.cpp
+Include.h
+/home/vinh/Vinh/AlgorithmBasic-master/Include.h
+
