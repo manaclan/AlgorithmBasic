@@ -1,2 +1,0 @@
-/usr/bin/ar qc libSelectionSort.a  CMakeFiles/SelectionSort.dir/SelectionSort.cpp.o
-/usr/bin/ranlib libSelectionSort.a
