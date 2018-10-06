@@ -8,9 +8,9 @@ add_executable(${PROJECT_NAME} main.cpp)
 
 target_include_directories(${PROJECT_NAME} PUBLIC ./Include )
 add_subdirectory(SelectionSort)
-#add_subdirectory(ColorTransformer)
-#add_subdirectory(ColorTransformer Converter)
+add_subdirectory(InsertionSort)
+add_subdirectory(InterchangeSort)
 
 
 #link lib
-target_link_libraries(${PROJECT_NAME} SelectionSort)
+target_link_libraries(${PROJECT_NAME} SelectionSort InsertionSort InterchangeSort)
