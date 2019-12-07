@@ -1,1 +1,0 @@
-add_library(InterchangeSort InterchangeSort.cpp)
